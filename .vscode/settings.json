@@ -1,5 +1,6 @@
 {
     "yaml.schemas": {
         "openapi:v3": "untitled:Untitled-2"
-    }
+    },
+    "DockerRun.DisableDockerrc": true
 }
